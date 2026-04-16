@@ -5,19 +5,51 @@
 
 ### 👨‍💻 About Me:
 
-<img width="55%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🚀 Front-End Developer focused on learning and building  
+- 🚀 Passionate about Front-End Development  
 - 📚 Finished HTML and currently learning CSS  
-- 🎯 Working on improving my skills step by step  
+- 🎯 Focused on improving step by step every day  
 - 💡 Interested in clean structure and real understanding  
+- 🔥 Learning by building, not just watching  
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🧠 Mindset:
 
-<p>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+- Consistency over motivation  
+- Focus on fundamentals, not shortcuts  
+- Real progress comes from practice  
+
+---
+
+### 🛠️ Skills:
+
+<p align="left">
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
+
+---
+
+### 📈 Currently Learning:
+
+- CSS (Layouts, Flexbox, Responsive Design)  
+- Building simple and clean web pages  
+
+---
+
+### 🎯 Goals:
+
+- Master Front-End Development  
+- Build strong and clean projects  
+- Become ready for freelance work  
+
+---
+
+### ⚡ Fun Fact:
+
+I treat learning programming like training — showing up every day matters more than anything.
+
+---
